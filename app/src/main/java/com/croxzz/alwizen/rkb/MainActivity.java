@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     boolean prepared = false;
     boolean started = false;
 
-    String url_radio = "https://www.radioking.com/widgets/player/player.php?id=480&c=%23f39c12&ii=&p=1&pp=1&i=1&eq=1&po=1&t=1&a=1&f=big";
+    String url_radio = "http://id.radioimzers.com:8888/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
